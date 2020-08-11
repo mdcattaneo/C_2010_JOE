@@ -2,7 +2,7 @@
 
 Replication files for empirical and simulation results.
 
-- Empirical results: [R-script](C_2010_JOE-empapp.R) | [dta](C_2010_JOE-dataRS5K.dta) (5K random sample).
+- Empirical results: [R-script](C_2010_JOE-empapp.R) | [data](C_2010_JOE-dataRS5K.dta) (5K random sample).
 
 - Simulation results: [R-script](C_2010_JOE-simuls.R).
 
